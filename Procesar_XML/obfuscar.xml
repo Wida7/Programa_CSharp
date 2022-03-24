@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Obfuscator>
+	<!-- CAMBIA RUTA donde están tus ensablados -->
+	<Var name="InPath" value="." />
+	<!-- CAMBIA RUTA donde quieres meter los ofuscados resultantes -->
+	<Var name="OutPath" value=".\Ofuscados" />
+	<Var name="LogFile" value=".ofuscacion-log.txt" />
+	<Var name="RenameProperties" value="true" />
+	<Var name="RenameEvents" value="true" />
+	<Var name="RenameFields" value="true" />
+	<Var name="KeepPublicApi" value="false" />
+	<Var name="HidePrivateApi" value="true" />
+	<Var name="UseUnicodeNames" value="true" />
+	<Var name="HideStrings" value="true" />
+	<Var name="OptimizeMethods" value="true" />
+	<Var name="SuppressIldasm" value="true" />
+	<!-- CAMBIA RUTA Y NOMBRE de los ensamblados finales -->
+	<Module file="$(InPath)\Procesar_XML.exe" />
+</Obfuscator>

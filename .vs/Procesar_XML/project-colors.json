@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d26882a-7bb9-4b33-8e44-469472d7ccbb": {
+      "ProjectGuid": "4d26882a-7bb9-4b33-8e44-469472d7ccbb",
+      "DisplayName": "Procesar_XML",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

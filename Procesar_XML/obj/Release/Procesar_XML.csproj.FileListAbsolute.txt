@@ -1,0 +1,12 @@
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\bin\Release\Procesar_XML.exe.config
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\bin\Release\Procesar_XML.exe
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\bin\Release\Procesar_XML.pdb
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.csproj.ResolveComReference.cache
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.btnCargar.resources
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.Properties.Resources.resources
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.csproj.GenerateResource.cache
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.csproj.CoreCompileInputs.cache
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.exe
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.pdb
+C:\Users\Wida2\source\repos\Procesar_XML\Procesar_XML\obj\Release\Procesar_XML.csproj.AssemblyReference.cache

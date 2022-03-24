@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procesar_XML", "Procesar_XML\Procesar_XML.csproj", "{4D26882A-7BB9-4B33-8E44-469472D7CCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D26882A-7BB9-4B33-8E44-469472D7CCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D26882A-7BB9-4B33-8E44-469472D7CCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D26882A-7BB9-4B33-8E44-469472D7CCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D26882A-7BB9-4B33-8E44-469472D7CCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86BD853F-0AA4-490A-8409-85524AE2C723}
+	EndGlobalSection
+EndGlobal

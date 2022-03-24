@@ -1,0 +1,175 @@
+Renamed Types:
+
+[Procesar_XML]Procesar_XML.btnCargar -> [Procesar_XML] . 
+{
+	[Procesar_XML]Procesar_XML.btnCargar::Form1_Load[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Procesar_XML]Procesar_XML.btnCargar::button1_Click[2]( [mscorlib]System.Object, [mscorlib]System.EventArgs ) ->  
+	[Procesar_XML]Procesar_XML.btnCargar::InitializeComponent[0]( ) ->  
+
+	[Procesar_XML]Procesar_XML.btnCargar::.ctor[0]( ) skipped:  special name
+	[Procesar_XML]Procesar_XML.btnCargar::Dispose[1]( [mscorlib]System.Boolean ) skipped:  external base class or interface
+
+	System.ComponentModel.IContainer [Procesar_XML]System.ComponentModel.IContainer Procesar_XML.btnCargar::components ->  
+	System.Windows.Forms.Button [Procesar_XML]System.Windows.Forms.Button Procesar_XML.btnCargar::button1 ->  
+	System.Windows.Forms.ProgressBar [Procesar_XML]System.Windows.Forms.ProgressBar Procesar_XML.btnCargar::pBarProceso ->  
+	System.Windows.Forms.Label [Procesar_XML]System.Windows.Forms.Label Procesar_XML.btnCargar::NombreArchivoLabel ->  
+}
+
+[Procesar_XML]Procesar_XML.Properties.Resources -> [Procesar_XML] . 
+{
+	[Procesar_XML]Procesar_XML.Properties.Resources::get_ResourceManager[0]( ) ->  
+	[Procesar_XML]Procesar_XML.Properties.Resources::get_Culture[0]( ) ->  
+	[Procesar_XML]Procesar_XML.Properties.Resources::set_Culture[1]( [mscorlib]System.Globalization.CultureInfo ) ->  
+
+	[Procesar_XML]Procesar_XML.Properties.Resources::.ctor[0]( ) skipped:  special name
+
+	System.Resources.ResourceManager [Procesar_XML]System.Resources.ResourceManager Procesar_XML.Properties.Resources::resourceMan ->  
+	System.Globalization.CultureInfo [Procesar_XML]System.Globalization.CultureInfo Procesar_XML.Properties.Resources::resourceCulture ->  
+
+	System.Resources.ResourceManager [Procesar_XML]System.Resources.ResourceManager Procesar_XML.Properties.Resources::ResourceManager ->  
+	System.Globalization.CultureInfo [Procesar_XML]System.Globalization.CultureInfo Procesar_XML.Properties.Resources::Culture ->  
+}
+
+[Procesar_XML]Procesar_XML.Properties.Settings -> [Procesar_XML] . 
+{
+	[Procesar_XML]Procesar_XML.Properties.Settings::get_Default[0]( ) ->  
+
+	[Procesar_XML]Procesar_XML.Properties.Settings::.ctor[0]( ) skipped:  special name
+	[Procesar_XML]Procesar_XML.Properties.Settings::.cctor[0]( ) skipped:  special name
+
+	Procesar_XML.Properties.Settings [Procesar_XML]Procesar_XML.Properties.Settings Procesar_XML.Properties.Settings::defaultInstance ->  
+
+	Procesar_XML.Properties.Settings [Procesar_XML]Procesar_XML.Properties.Settings Procesar_XML.Properties.Settings::Default -> dropped
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.XlSaveAsAccessMode -> [Procesar_XML] . 
+{
+	Microsoft.Office.Interop.Excel.XlSaveAsAccessMode [Procesar_XML]Microsoft.Office.Interop.Excel.XlSaveAsAccessMode Microsoft.Office.Interop.Excel.XlSaveAsAccessMode::xlExclusive ->  
+	Microsoft.Office.Interop.Excel.XlSaveAsAccessMode [Procesar_XML]Microsoft.Office.Interop.Excel.XlSaveAsAccessMode Microsoft.Office.Interop.Excel.XlSaveAsAccessMode::xlNoChange ->  
+	Microsoft.Office.Interop.Excel.XlSaveAsAccessMode [Procesar_XML]Microsoft.Office.Interop.Excel.XlSaveAsAccessMode Microsoft.Office.Interop.Excel.XlSaveAsAccessMode::xlShared ->  
+
+	System.Int32 [Procesar_XML]System.Int32 Microsoft.Office.Interop.Excel.XlSaveAsAccessMode::value__ skipped:  special name
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.XlSheetType -> [Procesar_XML] .​
+{
+	Microsoft.Office.Interop.Excel.XlSheetType [Procesar_XML]Microsoft.Office.Interop.Excel.XlSheetType Microsoft.Office.Interop.Excel.XlSheetType::xlChart ->  
+	Microsoft.Office.Interop.Excel.XlSheetType [Procesar_XML]Microsoft.Office.Interop.Excel.XlSheetType Microsoft.Office.Interop.Excel.XlSheetType::xlDialogSheet ->  
+	Microsoft.Office.Interop.Excel.XlSheetType [Procesar_XML]Microsoft.Office.Interop.Excel.XlSheetType Microsoft.Office.Interop.Excel.XlSheetType::xlExcel4IntlMacroSheet ->  
+	Microsoft.Office.Interop.Excel.XlSheetType [Procesar_XML]Microsoft.Office.Interop.Excel.XlSheetType Microsoft.Office.Interop.Excel.XlSheetType::xlExcel4MacroSheet ->  
+	Microsoft.Office.Interop.Excel.XlSheetType [Procesar_XML]Microsoft.Office.Interop.Excel.XlSheetType Microsoft.Office.Interop.Excel.XlSheetType::xlWorksheet ->  
+
+	System.Int32 [Procesar_XML]System.Int32 Microsoft.Office.Interop.Excel.XlSheetType::value__ skipped:  special name
+}
+
+[Procesar_XML]Procesar_XML.btnCargar/<>o__2 -> [Procesar_XML] . / 
+{
+	System.Runtime.CompilerServices.CallSite`1<System.Func`3<System.Runtime.CompilerServices.CallSite,System.Object,Microsoft.Office.Interop.Excel.Worksheet>> [Procesar_XML]System.Runtime.CompilerServices.CallSite`1<System.Func`3<System.Runtime.CompilerServices.CallSite,System.Object,Microsoft.Office.Interop.Excel.Worksheet>> Procesar_XML.btnCargar/<>o__2::<>p__0 ->  
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.Range -> [Procesar_XML] . 
+{
+
+	[Procesar_XML]Microsoft.Office.Interop.Excel.Range::_VtblGap1_45[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel.Range::get__Default[2]( [mscorlib]System.Object, [mscorlib]System.Object ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel.Range::set__Default[3]( [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object ) skipped:  runtime method
+
+	System.Object [Procesar_XML]System.Object Microsoft.Office.Interop.Excel.Range::_Default ->  
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel._Application -> [Procesar_XML] .‐
+{
+
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::_VtblGap1_9[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::get_ActiveSheet[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::_VtblGap2_35[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::get_Workbooks[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::_VtblGap3_60[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::get__Default[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::_VtblGap4_116[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::Quit[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::_VtblGap5_51[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::get_Visible[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Application::set_Visible[1]( [mscorlib]System.Boolean ) skipped:  runtime method
+
+	System.Object [Procesar_XML]System.Object Microsoft.Office.Interop.Excel._Application::ActiveSheet ->  
+	Microsoft.Office.Interop.Excel.Workbooks [Procesar_XML]Microsoft.Office.Interop.Excel.Workbooks Microsoft.Office.Interop.Excel._Application::Workbooks ->  
+	System.String [Procesar_XML]System.String Microsoft.Office.Interop.Excel._Application::_Default ->  
+	System.Boolean [Procesar_XML]System.Boolean Microsoft.Office.Interop.Excel._Application::Visible ->  
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel._Worksheet -> [Procesar_XML] .‒
+{
+
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Worksheet::_VtblGap1_45[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Worksheet::get_Cells[0]( ) skipped:  runtime method
+
+	Microsoft.Office.Interop.Excel.Range [Procesar_XML]Microsoft.Office.Interop.Excel.Range Microsoft.Office.Interop.Excel._Worksheet::Cells ->  
+}
+
+[Procesar_XML]Procesar_XML.Program -> [Procesar_XML] . 
+{
+	[Procesar_XML]Procesar_XML.Program::Main[0]( ) ->  
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.Workbooks -> [Procesar_XML] . 
+{
+
+	[Procesar_XML]Microsoft.Office.Interop.Excel.Workbooks::_VtblGap1_3[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel.Workbooks::Add[1]( [mscorlib]System.Object ) skipped:  runtime method
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel._Workbook -> [Procesar_XML] .‑
+{
+
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Workbook::_VtblGap1_20[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Workbook::Close[3]( [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Workbook::_VtblGap2_144[0]( ) skipped:  runtime method
+	[Procesar_XML]Microsoft.Office.Interop.Excel._Workbook::SaveAs[12]( [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [Procesar_XML]Microsoft.Office.Interop.Excel.XlSaveAsAccessMode, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object, [mscorlib]System.Object ) skipped:  runtime method
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.AppEvents -> [Procesar_XML] . 
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.AppEvents_Event -> [Procesar_XML] . 
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.DocEvents -> [Procesar_XML] . 
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.DocEvents_Event -> [Procesar_XML] . 
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.WorkbookEvents -> [Procesar_XML] . 
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.WorkbookEvents_Event -> [Procesar_XML] . 
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.Application -> [Procesar_XML] .—
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.Workbook -> [Procesar_XML] .―
+{
+}
+
+[Procesar_XML]Microsoft.Office.Interop.Excel.Worksheet -> [Procesar_XML] .•
+{
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+Procesar_XML.btnCargar.resources ->  . .resources
+Procesar_XML.Properties.Resources.resources ->  . .resources
+
+Skipped Resources:
+
